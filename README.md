@@ -13,6 +13,8 @@ https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 - :sun_with_face: **Sunshine – Streaming Host <-- Install on your VM**  
   https://github.com/LizardByte/Sunshine
+  
+(Newer releases install the ViGEmBus driver automatically, but I'll keep the installer in this list in case anyone needs it.)
 
 - :video_game: **ViGEmBus – Virtual Gamepad Driver**  
 https://github.com/nefarius/ViGEmBus
